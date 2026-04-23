@@ -46,7 +46,7 @@ for lam in lambda_values:
 
     model = train_model(
         lambda_val=lam,
-        epochs=5
+        epochs=10
     )
 
     accuracy = evaluate(
