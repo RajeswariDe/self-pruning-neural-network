@@ -5,7 +5,7 @@
 This project implements a **Self-Pruning Neural Network** where each weight is associated with a learnable gate.
 The model automatically learns which connections are important and prunes the rest during training instead of performing pruning after training.
 
----
+
 
 ## Problem Statement
 
